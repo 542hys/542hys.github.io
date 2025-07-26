@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-im a cs student
+im a cs student.My email is 2021302831@mail.nwpu.edu.cn.
