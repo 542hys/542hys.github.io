@@ -19,10 +19,10 @@ repository               : "542hys/542hys.github.io"
 
 # Site Author
 author:
-  avatar           : "9ba07563c4f2e1eeb98825dc942228e0.jpg"
+  avatar           : "profile.png"
   name             : "Yisong Hu"
   pronouns         :
-  bio              : "Ph.D. Student in Computer Science\nNorthwestern Polytechnical University\nResearch: Multimodal Long Video Understanding, VideoQA, Keyframe Selection, Token Compression"
+  bio              : "Ph.D. Student in Computer Science\nNorthwestern Polytechnical University\nEducation: B.Eng. (2021-2025), Ph.D. (2025-Present)\nResearch: Multimodal Long Video Understanding, VideoQA, Keyframe Selection, Token Compression"
   location         : "Xi'an, China"
   employer         : "Northwestern Polytechnical University"
   uri              :
