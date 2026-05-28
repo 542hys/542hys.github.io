@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "VSGA: Visual-Speech Guided Adaptive Sampling for LLM-Based Hour-Long Video Chaptering"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2026-tmm-vsga
+excerpt: 'We present VSGA, a visual-speech guided adaptive sampling method to facilitate hour-long video chaptering based on large language models.'
+date: 2026-01-01
+venue: 'IEEE Transactions on Multimedia (TMM) (Under Review)'
+slidesurl: ''
+paperurl: ''
+bibtexurl: ''
+citation: 'Your Name. (2026). "VSGA: Visual-Speech Guided Adaptive Sampling for LLM-Based Hour-Long Video Chaptering". <i>IEEE Transactions on Multimedia (TMM)</i>. (Under Review)'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This work targets hour-long video chaptering tasks. We propose Visual-Speech Guided Adaptive Sampling (VSGA), which leverages both visual and audio speech information to conduct adaptive frame sampling. The method well adapts to LLM-based long video understanding systems and effectively reduces the computation cost of ultra-long video modeling.
