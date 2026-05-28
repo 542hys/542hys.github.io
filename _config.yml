@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Yisong Hu / Personal Website"
 title_separator          : "-"
 name                     : &name "Yisong Hu"
-description              : &description "Ph.D. Student in Computer Science, focusing on multimodal long video understanding, VideoQA, token compression, and keyframe selection."
+description              : &description "Ph.D. Student in Computer Science, focusing on multimodal long video understanding, video qa/captioning/chaptering."
 url                      : https://542hys.github.io
 baseurl                  : ""
 repository               : "542hys/542hys.github.io"
