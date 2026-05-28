@@ -9,7 +9,7 @@ venue: 'IEEE Transactions on Multimedia (TMM) (Under Review)'
 slidesurl: ''
 paperurl: ''
 bibtexurl: ''
-citation: 'Your Name. (2026). "VSGA: Visual-Speech Guided Adaptive Sampling for LLM-Based Hour-Long Video Chaptering". <i>IEEE Transactions on Multimedia (TMM)</i>. (Under Review)'
+citation: ' "VSGA: Visual-Speech Guided Adaptive Sampling for LLM-Based Hour-Long Video Chaptering". <i>IEEE Transactions on Multimedia (TMM)</i>. (Under Review)'
 ---
 
 This work targets hour-long video chaptering tasks. We propose Visual-Speech Guided Adaptive Sampling (VSGA), which leverages both visual and audio speech information to conduct adaptive frame sampling. The method well adapts to LLM-based long video understanding systems and effectively reduces the computation cost of ultra-long video modeling.
