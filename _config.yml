@@ -19,7 +19,7 @@ repository               : "542hys/542hys.github.io"
 
 # Site Author
 author:
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yisong Hu"
   pronouns         :
   bio              : "Ph.D. Student in Computer Science\nNorthwestern Polytechnical University\nEducation: B.Eng. (2021-2025), Ph.D. (2025-Present)\nResearch: Multimodal Long Video Understanding, VideoQA, Keyframe Selection, Token Compression"
