@@ -9,7 +9,7 @@ venue: 'ACM MM 2026 (Under Review)'
 slidesurl: ''
 paperurl: ''
 bibtexurl: ''
-citation: 'Your Name. (2026). "Boundary Detection over Frame Captioning: A Key to Efficient Long Video Chaptering". <i>ACM MM 2026</i>. (Under Review)'
+citation: '"Boundary Detection over Frame Captioning: A Key to Efficient Long Video Chaptering". <i>ACM MM 2026</i>. (Under Review)'
 ---
 
 <center>
