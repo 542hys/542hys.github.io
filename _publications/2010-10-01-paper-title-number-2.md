@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Plug-and-Play Confidence-Aware Keyframe Selection for Efficient Video Understanding"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2026-keyframe-selection
+excerpt: 'We propose a plug-and-play confidence-aware keyframe selection strategy to reduce redundant information and boost the efficiency of video understanding models.'
+date: 2026-01-01
+venue: 'ACM MM 2026 (Under Review)'
+slidesurl: ''
+paperurl: ''
+bibtexurl: ''
+citation: 'Your Name. (2026). "Plug-and-Play Confidence-Aware Keyframe Selection for Efficient Video Understanding". <i>ACM MM 2026</i>. (Under Review)'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Despite the strong performance of Multi-modal Large Language Models (MLLMs) in Video Question Answering (VideoQA), accurately grounding visual evidence in long videos remains challenging. Existing methods typically perform keyframe selection uniformly across all samples based on frame–text relevance, overlooking the fact that a large portion of questions can already be correctly answered with uniformly sampled frames. In this paper, we propose Confidence-Aware Keyframe Selection(CA-KFS), a confidence-aware keyframe selection framework. For predictions obtained from uniform sampling, we directly accept high-confidence answers. For low-confidence cases, we formulate keyframe selection as an optimization problem with three key objectives: (1) distribution-weighted frame–option relevance based on the initial answer probabilities, (2) coverage over candidate options to avoid missing relevant evidence, and (3) discriminability of selected frames to reduce uncertainty. Experiments on VideoMME and LongVideoBench show that our training-free CA-KFS reduces cross-modal query retrieval of visual and text tokens by 77.3\% and 74.3\%, while improving accuracy over uniform sampling by 1.9\% and 4.9\%, respectively.
