@@ -7,4 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-im a cs student.My email is 2021302831@mail.nwpu.edu.cn.
+I'm a PhD student in Computer Science. My research focuses on **long-form video understanding and multimodal learning**.
+
+Recently, I mainly work on Video Question Answering (VideoQA), with particular interests in **token compression strategies and key frame selection algorithms** for efficient video modeling.
+
+Email: 2021302831@mail.nwpu.edu.cn
